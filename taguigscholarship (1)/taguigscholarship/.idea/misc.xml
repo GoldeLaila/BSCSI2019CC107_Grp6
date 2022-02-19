@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani10attach.xml" value="0.22418478260869565" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani15attach.xml" value="0.22418478260869565" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani2.xml" value="0.37083333333333335" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani3.xml" value="0.37083333333333335" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani4.xml" value="0.33" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani5.xml" value="0.37083333333333335" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani6.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani7.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani8.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani9.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lani9attach.xml" value="0.22418478260869565" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3lanishits.xml" value="0.22418478260869565" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_activity3profile.xml" value="0.22418478260869565" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlc.xml" value="0.22418478260869565" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlc10.xml" value="0.22418478260869565" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlc2.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlc3.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlc4.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlc5.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlc6.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlc7.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlc8.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlc9.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlcattach.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlcattach1.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlcattach2.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlcattach3.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_tlcattach4.xml" value="0.3703125" />
+        <entry key="..\:/taguigscholarship (1)/taguigscholarship/app/src/main/res/layout/activity_main_year.xml" value="0.22418478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

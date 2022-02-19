@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3lani2">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="411dp"
+        android:layout_height="57dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logo"
+        app:srcCompat="@drawable/profile" />
+
+    <Button
+        android:id="@+id/profile"
+        android:layout_width="45dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/tao"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logo" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="353dp"
+        android:layout_height="344dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView6">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="serif"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:gravity="center"
+                android:text="
+BASIC QUALIFICATION \n
+a) Bona fide resident of Taguig City for at least 3 years immediately preceding the application;
+        \n
+b) of good moral character both in paper and in deeds;
+        \n
+c) a duly registered voter of the city if at the time of the filing of application the applicant has already turned 18 years of age, and whose parents, or at least one of them, is a duly registered voter of Taguig City;
+        \n
+d) officially enrolled at the Taguig City University with a minimum of 15 units enrolled per semester (excluding the summer semester).
+        \n
+        \n
+Note:
+        \n
+1. 	Please provide 2 (two) sets of photocopies of all the documents. All photocopied documents should be faithful reproduction of the original. Bring the original copies of documents for validation purposes. Ask for the “Receiving Copy” upon submission.
+        \n
+2.	Fill in ALL the data required in the Application Form and submit ALL the documents during the Application. Scholarship application forms must be answered completely and those with incomplete requirements shall NOT be accepted, or IF inadvertently accepted, it shall NOT be processed.
+        \n
+3. 	Submit your Scholarship Application at the L.A.N.I. Scholarship Secretariat Office at the Sen. Renato “Compañero” Cayetano Memorial Science and Technology High School (Cayetano Science), Pamayanang Diego Silang, Brgy. Ususan, Taguig City, during the application period ONLY. Check the Scholarship Secretariat (Taguig) FB Account and www. taguig.gov.ph (Programs and Services) regularly for announcements.
+        \n
+e) 	Bona fide resident of Taguig City for at least 3 years immediately preceding the application;
+        \n
+f) 	of good moral character both in paper and in deeds;
+        \n
+g) 	a duly registered voter of the city if at the time of the filing of application the applicant has already turned 18 years of age, and whose parents, or at least one of them, is a duly registered voter of Taguig City;
+        \n
+4.	Please do NOT wait for the last day of the application period if you do not want to be inconvenienced.
+        \n
+h) 	officially enrolled at the Taguig City University with a minimum of 15 units enrolled per semester (excluding the summer semester)
+
+
+
+
+        "
+                android:textSize="2mm" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/border"
+        android:text="Next"
+        android:fontFamily="serif"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView2" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/border"
+        android:text="Back"
+        android:fontFamily="serif"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

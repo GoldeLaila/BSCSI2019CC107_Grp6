@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">taguigscholarship</string>
+    <string name="title_activity_main_activity3register">MainActivity3register</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="todo">TODO</string>
+    <string name="first_name">First Name</string>
+    <string name="surname">Surname</string>
+    <string name="suffix">suffix</string>
+    <string name="email_address">Email Address</string>
+    <string name="gender">Gender:</string>
+    <string name="username">Username</string>
+    <string name="create_password">Create password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="register">Register</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="birthday">Birthday:</string>
+    <string name="title_activity_main_tlc6">MainActivityTLC6</string>
+    <string name="yes" />
+</resources>

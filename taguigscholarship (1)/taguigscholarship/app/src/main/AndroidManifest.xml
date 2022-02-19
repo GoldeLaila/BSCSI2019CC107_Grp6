@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.taguigscholarship">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tite"
+        android:label="@string/app_name"
+        android:usesCleartextTraffic="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Taguigscholarship">
+        <activity
+            android:name=".MainActivityYear"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLCattach4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLCattach3"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLCattach2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLCattach1"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLCattach"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani15attach"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani14attach"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani13attach"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani12attach"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani11attach"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani10attach"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani9attach"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLC10"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLC9"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLC8"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLC7"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLC6"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLC5"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLC4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLC3"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLC2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTLC"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani9"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani8"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani7"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani6"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani5"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani3"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lani2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity4lani"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3profile"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3lanishits"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2Register"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2login2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

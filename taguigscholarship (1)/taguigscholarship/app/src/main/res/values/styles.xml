@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="regular">
+
+        <item name="android:fontFamily">@Font/times_new_roman</item>
+        <item name="fontFamily">@Font/times_new_roman</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+</resources>
